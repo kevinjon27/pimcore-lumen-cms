@@ -1,4 +1,4 @@
-# Bukopin
+# PIMCORE-LUMEN-CMS
 This website was build using Pimcore 6 and every line of code made with love.
 If you are new in this project, so please keep it clean and readable 😉
 
